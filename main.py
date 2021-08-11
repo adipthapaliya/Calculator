@@ -11,7 +11,6 @@ root.configure(bg='#000000')
 #=====================================================function
 
 def click(number):
-    global check_float
     value=e.get()
     e.delete(0,END)
     e.insert(0,str(value)+str(number))
