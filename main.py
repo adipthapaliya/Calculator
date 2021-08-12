@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 
 
 root=Tk()
-root.title("Iphone Clone Calculator")
+root.title("Calculator")
 root.iconbitmap('cal.ico')
 root.configure(bg='#000000')
 
